@@ -1,5 +1,58 @@
 [
   {
+    "dedupeKey": "job:06c5d6b0-7e96-454a-ba67-e8857f7bb248",
+    "companyId": "company_84dc88fce520b35dabff64f64af112cb",
+    "company": "Grafana Labs",
+    "companyDomain": "grafana.com",
+    "role": "Senior Backend Engineer - Databases - Analytics | Canada | Remote",
+    "applyUrl": "https://go.landed.jobs/obajjat",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Canada",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "distributed systems",
+      "observability"
+    ],
+    "posted": "2026-09-28T10:20:02.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Open Source 50",
+      "$6B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:59d8eed4-33a7-4454-be9e-784ee0eb1a0a",
+    "companyId": "company_84dc88fce520b35dabff64f64af112cb",
+    "company": "Grafana Labs",
+    "companyDomain": "grafana.com",
+    "role": "Senior Backend Engineer - Databases - Analytics | US | Remote",
+    "applyUrl": "https://go.landed.jobs/o1kje0s",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "distributed systems",
+      "observability"
+    ],
+    "posted": "2026-09-28T10:17:09.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Open Source 50",
+      "$6B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:7943e7c2-e807-4cfe-8e2c-90399e7ad168",
     "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
     "company": "SpaceX",
@@ -5280,6 +5333,29 @@
     ]
   },
   {
+    "dedupeKey": "job:88ed11a2-ecad-4701-9546-b0f7d9a2866c",
+    "companyId": "company_de627b7a9ccb0295b9cdae17c6ddac90",
+    "company": "Oxylabs",
+    "companyDomain": "oxylabs.io",
+    "role": "Senior SRE or DevOps engineer in networking-heavy infrastructure (Remote)",
+    "applyUrl": "https://go.landed.jobs/uryurem",
+    "location": "🌐 Remote (Germany)",
+    "locations": [
+      "Germany"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-09-28T08:09:55.713Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3.6B valuation",
+      "Series D"
+    ]
+  },
+  {
     "dedupeKey": "job:5e5d5c05-481f-42b8-bfcd-7f2b2d7c4c42",
     "companyId": "company_d2df6e8a4ab3e118a8777b97ade0ba94",
     "company": "Mastercard",
@@ -9306,112 +9382,6 @@
     "posted": "2026-09-25T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:cacea1d0-c281-4d41-8950-49dd696db1cf",
-    "companyId": "company_03866735a7929b513430a27473f5caa7",
-    "company": "Fiserv",
-    "companyDomain": "fiserv.com",
-    "role": "Senior Appian Developer",
-    "applyUrl": "https://go.landed.jobs/2qqdwbs",
-    "location": "Georgia · Berkeley Heights, NJ",
-    "locations": [
-      "Georgia",
-      "Berkeley Heights, NJ"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Appian platform",
-      "Process Models",
-      "Records",
-      "Reports",
-      "Rules",
-      "SAIL",
-      "Security",
-      "Integrations",
-      "Web APIs",
-      "REST APIs"
-    ],
-    "posted": "2026-09-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$28.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d3e31239-040a-4071-9b3f-81fa4584fbd0",
-    "companyId": "company_6b8510ec45e00d4e449f6fac0c6ec511",
-    "company": "PayPal",
-    "companyDomain": "paypal.com",
-    "role": "Staff Software Engineer - Platform & Infrastructure",
-    "applyUrl": "https://go.landed.jobs/e3hh7n2",
-    "location": "San Jose, CA",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "GitHub Actions",
-      "ArgoCD",
-      "Java",
-      "Python",
-      "Go",
-      "Docker",
-      "Kubernetes",
-      "GCP",
-      "AWS",
-      "OpenTelemetry",
-      "Datadog"
-    ],
-    "posted": "2026-09-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:ef26bf63-7333-42f1-a1f8-c49ee913c79a",
-    "companyId": "company_1fb60306dfee429de8a4090c4d118342",
-    "company": "Expedia",
-    "companyDomain": "expediagroup.com",
-    "role": "Software Development Engineer III, Media Solutions",
-    "applyUrl": "https://go.landed.jobs/5pwgct5",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "React",
-      "Kotlin",
-      "Java",
-      "microservices",
-      "event-driven systems",
-      "RESTful APIs",
-      "AWS",
-      "Docker",
-      "Kubernetes",
-      "CI/CD pipelines",
-      "Datadog",
-      "Elasticsearch"
-    ],
-    "posted": "2026-09-25T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$35.4B valuation",
       "Public"
     ]
   }

@@ -1,5 +1,440 @@
 [
   {
+    "dedupeKey": "job:e59c1e18-6580-4cef-ad56-65b54118e001",
+    "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
+    "company": "Zscaler",
+    "companyDomain": "zscaler.com",
+    "role": "Principal Software Development Engineer",
+    "applyUrl": "https://go.landed.jobs/zrysvy5",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "principal",
+    "skills": [
+      "observability",
+      "React"
+    ],
+    "posted": "2026-11-16T23:52:58.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$24.4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a49e320a-7191-405d-ae9e-e8220fe50274",
+    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
+    "company": "Anduril Industries",
+    "companyDomain": "anduril.com",
+    "role": "Lead GNC Engineer - A700",
+    "applyUrl": "https://go.landed.jobs/l32fk1m",
+    "location": "Costa Mesa, CA",
+    "locations": [
+      "Costa Mesa, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "computer vision"
+    ],
+    "posted": "2026-11-16T23:05:22.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$61B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:3ce35c72-44bf-40f4-a90a-4ccf92def317",
+    "companyId": "company_13e9ff9eaa5df14e28b1e8642184168c",
+    "company": "Quince",
+    "companyDomain": "quince.com",
+    "role": "Software Engineering in Test II, (SDET II)",
+    "applyUrl": "https://go.landed.jobs/1bvtvgx",
+    "location": "US · Palo Alto, CA",
+    "locations": [
+      "US",
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "CI/CD",
+      "Python",
+      "TypeScript",
+      "Java",
+      "JavaScript",
+      "SQL"
+    ],
+    "posted": "2026-11-16T21:33:54.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$10.1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:6603cd02-ee21-40e4-b7a9-68e60f0acf00",
+    "companyId": "company_48903a64fb9cfbae281779a45706fb68",
+    "company": "Verkada",
+    "companyDomain": "verkada.com",
+    "role": "Backend Engineer - Connectivity",
+    "applyUrl": "https://go.landed.jobs/142um95",
+    "location": "San Mateo, CA",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "distributed systems",
+      "Redis",
+      "Postgres",
+      "Kafka",
+      "Kubernetes",
+      "Terraform",
+      "computer vision",
+      "Python",
+      "Go",
+      "REST APIs"
+    ],
+    "posted": "2026-11-16T20:28:17.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$5.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:4c66fbb4-9be5-4d5e-a798-c29fa2aad74d",
+    "companyId": "company_d2b3670efa18a07238d4fc11bdf5af6d",
+    "company": "Pacific Fusion",
+    "companyDomain": "pacificfusion.com",
+    "role": "Summer 2027 HPC/DevOps Engineering Intern",
+    "applyUrl": "https://go.landed.jobs/s1y5iix",
+    "location": "San Leandro, CA",
+    "locations": [
+      "San Leandro, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "AWS",
+      "infrastructure as code",
+      "Python",
+      "CI/CD",
+      "containers"
+    ],
+    "posted": "2026-11-16T19:40:27.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp ClimateTech 50",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:d06bc9f0-a67c-44bf-bebf-9adf1630c279",
+    "companyId": "company_5a00883f75b4e926e06957b0989f13d7",
+    "company": "Snowflake",
+    "companyDomain": "snowflake.com",
+    "role": "Senior Software Engineer - Elastic Global Services",
+    "applyUrl": "https://go.landed.jobs/cjvmqut",
+    "location": "Menlo Park, CA",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Snowflake",
+      "distributed systems"
+    ],
+    "posted": "2026-11-16T18:49:05.714Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$102B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2c0ae58b-d02a-4b8c-a10a-39e4029dc77d",
+    "companyId": "company_0d56b1ced52ad936ad51d238600a0670",
+    "company": "Bedrock Robotics",
+    "companyDomain": "bedrockrobotics.com",
+    "role": "Product Engineering Lead",
+    "applyUrl": "https://go.landed.jobs/6tw6btv",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "gRPC",
+      "Python",
+      "TypeScript",
+      "Go",
+      "React",
+      "AWS"
+    ],
+    "posted": "2026-11-16T18:38:48.429Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$1.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:8683a4da-522e-4582-ae5e-126316d842fb",
+    "companyId": "company_b73aedfddef8992f5ef991fbf7bdf87c",
+    "company": "Lightning AI",
+    "companyDomain": "lightning.ai",
+    "role": "Senior IT Systems Engineer",
+    "applyUrl": "https://go.landed.jobs/6w92rk9",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Google Cloud"
+    ],
+    "posted": "2026-11-16T17:58:06.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Open Source 50",
+      "$2.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2d5e0b03-2b38-4b60-915e-06300ca98210",
+    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
+    "company": "Stripe",
+    "companyDomain": "stripe.com",
+    "role": "Engineering Manager, Collaboration Engineering",
+    "applyUrl": "https://go.landed.jobs/23e93w1",
+    "location": "Seattle, WA · US",
+    "locations": [
+      "Seattle, WA",
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "AI agents",
+      "large language models",
+      "TypeScript",
+      "Go",
+      "Ruby",
+      "React"
+    ],
+    "posted": "2026-11-16T15:33:12.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S09",
+      "$159B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7208de35-5a66-4b21-af02-bac8561d7018",
+    "companyId": "company_9ad7eba1595b4d06fa6c04bf28ee9ebb",
+    "company": "CHAOS Industries",
+    "companyDomain": "chaosinc.com",
+    "role": "Principal Robotics Software Engineer",
+    "applyUrl": "https://go.landed.jobs/zwgsctd",
+    "location": "El Segundo, CA · Los Angeles, CA",
+    "locations": [
+      "El Segundo, CA",
+      "Los Angeles, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "principal",
+    "skills": [],
+    "posted": "2026-11-16T14:14:58.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$4.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:98bdc321-1135-4f1a-94d3-378b693a5bc2",
+    "companyId": "company_84dc88fce520b35dabff64f64af112cb",
+    "company": "Grafana Labs",
+    "companyDomain": "grafana.com",
+    "role": "Engineering Manager - Grafana Productivity (Remote, Canada)",
+    "applyUrl": "https://go.landed.jobs/5lyus02",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "Canada",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "observability"
+    ],
+    "posted": "2026-11-16T09:40:46.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Open Source 50",
+      "$6B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5ea63595-d6ed-479e-8192-bf393382c34c",
+    "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
+    "company": "OpenAI",
+    "companyDomain": "openai.com",
+    "role": "Full Stack Software Engineer, Travel",
+    "applyUrl": "https://go.landed.jobs/cnscauy",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-15T21:10:17.443Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$852B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e8d33756-24dc-4c78-9929-836d348446a9",
+    "companyId": "company_d07196d6edfe1d070e05253f4ac1c552",
+    "company": "Airwallex",
+    "companyDomain": "airwallex.com",
+    "role": "Senior Software Engineer, Data Platform & AI Enablement",
+    "applyUrl": "https://go.landed.jobs/vls9r5e",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "distributed systems",
+      "Java",
+      "Kotlin",
+      "Go",
+      "Kafka",
+      "Spark",
+      "Kubernetes",
+      "Databricks"
+    ],
+    "posted": "2026-11-15T06:49:48.727Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp FinTech 50",
+      "$11B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7fcbc305-24d5-49d9-8723-553ac2e33979",
+    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
+    "company": "SpaceX",
+    "companyDomain": "spacex.com",
+    "role": "Full Stack Software Engineer (Starlink)",
+    "applyUrl": "https://go.landed.jobs/am1mpic",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "observability",
+      "Python",
+      "Java",
+      "Go",
+      "C#",
+      "Scala",
+      "Kubernetes",
+      "Docker",
+      "JavaScript",
+      "React",
+      "Angular",
+      "SQL"
+    ],
+    "posted": "2026-11-15T02:59:43.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$1.4T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:8c6eaaed-ff5f-4ed2-81df-d65009284235",
+    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
+    "company": "SpaceX",
+    "companyDomain": "spacex.com",
+    "role": "Sr. Full Stack Software Engineer (Starlink)",
+    "applyUrl": "https://go.landed.jobs/jki8v85",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "observability",
+      "Python",
+      "Java",
+      "Go",
+      "C#",
+      "Scala",
+      "Kubernetes",
+      "Docker",
+      "JavaScript",
+      "React",
+      "Angular",
+      "SQL"
+    ],
+    "posted": "2026-11-15T02:56:23.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$1.4T valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:b954b32b-2812-4627-ae5e-e0cdbcae2c2c",
     "companyId": "company_9ed265193c7622e1a776bdf68215f82d",
     "company": "Mirage",
@@ -391,6 +826,59 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:9ad59ea5-22c1-45ee-b026-32925c40d0c5",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Senior System Software Engineer, NPI Data Center",
+    "applyUrl": "https://go.landed.jobs/rmhhroc",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "python"
+    ],
+    "posted": "2026-11-14T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:d84b69be-2263-43ff-803c-9d4bf77a2dbb",
+    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
+    "company": "NVIDIA",
+    "companyDomain": "nvidia.com",
+    "role": "Deep Learning Framework Communications Engineer - New College Grad 2026",
+    "applyUrl": "https://go.landed.jobs/7njn938",
+    "location": "Santa Clara, CA",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "multi-GPU",
+      "PyTorch",
+      "LLM",
+      "vLLM"
+    ],
+    "posted": "2026-11-14T00:00:00.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Power 50",
+      "$4.9T valuation"
     ]
   },
   {
@@ -945,31 +1433,6 @@
     ]
   },
   {
-    "dedupeKey": "job:b5e2d8ea-56bd-4e37-ad99-7710a4d03218",
-    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
-    "company": "Anduril Industries",
-    "companyDomain": "anduril.com",
-    "role": "Senior Firmware Engineer",
-    "applyUrl": "https://go.landed.jobs/h2jkzyr",
-    "location": "Waltham, MA",
-    "locations": [
-      "Waltham, MA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "computer vision"
-    ],
-    "posted": "2026-11-13T19:46:41.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$61B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:f6d766c9-98d1-48a1-83f3-b1a521c3f353",
     "companyId": "company_d2b3670efa18a07238d4fc11bdf5af6d",
     "company": "Pacific Fusion",
@@ -1409,7 +1872,7 @@
     "companyId": "company_94331af4b4c9f156400dd00933f4ad34",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
-    "role": "Senior Production Engineer I",
+    "role": "Senior Production Engineer",
     "applyUrl": "https://go.landed.jobs/dpocbpo",
     "location": "Sunnyvale, CA",
     "locations": [
@@ -1824,7 +2287,7 @@
     "companyId": "company_cc1e1169ed725dd9adb0f0065bdc8d28",
     "company": "Robinhood",
     "companyDomain": "robinhood.com",
-    "role": "Senior Software Engineer, Trump Accounts",
+    "role": "Senior Software Engineer, Government Products",
     "applyUrl": "https://go.landed.jobs/b83tain",
     "location": "Menlo Park, CA · New York City, NY",
     "locations": [
@@ -2695,64 +3158,6 @@
     ]
   },
   {
-    "dedupeKey": "job:7eb427f1-1f1f-4ae8-9d75-1180a72ab8b6",
-    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
-    "company": "SpaceX",
-    "companyDomain": "spacex.com",
-    "role": "Principal Software Engineer, CDN (Starlink)",
-    "applyUrl": "https://go.landed.jobs/bxhnno4",
-    "location": "Palo Alto, CA +2",
-    "locations": [
-      "Palo Alto, CA",
-      "Hawthorne, CA",
-      "Redmond, WA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "distributed systems",
-      "Rust",
-      "C++"
-    ],
-    "posted": "2026-11-12T21:19:50.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hardware 50",
-      "$1.4T valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:1679048c-55b2-44b8-b25a-cbfb325d01e1",
-    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
-    "company": "SpaceX",
-    "companyDomain": "spacex.com",
-    "role": "Principal Software Engineer, CDN (Starlink)",
-    "applyUrl": "https://go.landed.jobs/o3n9gp2",
-    "location": "Redmond, WA +2",
-    "locations": [
-      "Redmond, WA",
-      "Hawthorne, CA",
-      "Palo Alto, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "distributed systems",
-      "Rust",
-      "C++"
-    ],
-    "posted": "2026-11-12T21:19:48.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hardware 50",
-      "$1.4T valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:a42e0316-4ded-4c04-bb69-43f6f624fce3",
     "companyId": "company_921c5c28c03deaa1a10a2a7084456a42",
     "company": "Crusoe",
@@ -2775,35 +3180,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$13B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:aafb675f-df35-4148-af3d-c0ce0e009881",
-    "companyId": "company_5a00883f75b4e926e06957b0989f13d7",
-    "company": "Snowflake",
-    "companyDomain": "snowflake.com",
-    "role": "Software Engineer, Identity & Access Management",
-    "applyUrl": "https://go.landed.jobs/20crhh0",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Bellevue, WA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Snowflake",
-      "Java",
-      "C++",
-      "C#",
-      "distributed systems"
-    ],
-    "posted": "2026-11-12T20:54:32.604Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$102B valuation"
     ]
   },
   {
@@ -2957,7 +3333,7 @@
     "companyId": "company_85223ad3091ff191fc392b96afccd0d7",
     "company": "Hadrian",
     "companyDomain": "hadrian.co",
-    "role": "Robotics Engineer, Additive Automation",
+    "role": "Software Engineer: Cell Orchestration / Machine Interface",
     "applyUrl": "https://go.landed.jobs/3ientd1",
     "location": "Los Angeles, CA",
     "locations": [
@@ -4290,32 +4666,6 @@
     ]
   },
   {
-    "dedupeKey": "job:436a62cb-dac8-493e-815b-c7e05b676938",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Software Engineer, Nix Packaging and Release Automation",
-    "applyUrl": "https://go.landed.jobs/k1jf77u",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "CI/CD",
-      "distributed systems"
-    ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:483f360f-e848-4ce9-b69c-de3dcbd66471",
     "companyId": "company_bea34bc9d29d0ab7935c486e89f3e7bf",
     "company": "Zillow",
@@ -4397,33 +4747,6 @@
     "companyBadges": [
       "TrueUp Remote 200",
       "$7.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:796681c5-817b-467a-b22f-3dc6f5447adf",
-    "companyId": "company_1411e994b70efbb47875c9e3174a2954",
-    "company": "NVIDIA",
-    "companyDomain": "nvidia.com",
-    "role": "Senior Software Engineer, Resilience Engineering - DGX Cloud",
-    "applyUrl": "https://go.landed.jobs/945uuor",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Santa Clara, CA",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Go"
-    ],
-    "posted": "2026-11-12T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$4.9T valuation"
     ]
   },
   {
@@ -4969,32 +5292,6 @@
     ]
   },
   {
-    "dedupeKey": "job:0cbde245-92bb-4cfe-8a07-72b2dbab76e1",
-    "companyId": "company_9ad7eba1595b4d06fa6c04bf28ee9ebb",
-    "company": "CHAOS Industries",
-    "companyDomain": "chaosinc.com",
-    "role": "Senior Staff Embedded Software Engineer",
-    "applyUrl": "https://go.landed.jobs/1jpf948",
-    "location": "Los Angeles, CA",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "Python",
-      "CI/CD"
-    ],
-    "posted": "2026-11-11T17:45:02.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$4.5B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:0126e911-dbcd-4a79-8cfa-c62d41f29f7e",
     "companyId": "company_ab6dbf28b31577a984afd46b4edc3065",
     "company": "Qualcomm",
@@ -5248,29 +5545,6 @@
     "companyBadges": [
       "TrueUp Digital Media 50",
       "$27.1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:84edb40a-f84c-435b-92a1-065f3491e22c",
-    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
-    "company": "Stripe",
-    "companyDomain": "stripe.com",
-    "role": "Engineering Manager, Adaptive Pricing",
-    "applyUrl": "https://go.landed.jobs/yeldo8j",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-11T15:53:40.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S09",
-      "$159B valuation"
     ]
   },
   {
@@ -5533,29 +5807,6 @@
     ]
   },
   {
-    "dedupeKey": "job:2adb522b-9d50-4743-9b4b-e85e27b04c3f",
-    "companyId": "company_aa5613ac6586b79175c21e339097bb23",
-    "company": "Shield AI",
-    "companyDomain": "shield.ai",
-    "role": "Networking & OS Engineering Manager (R6630)",
-    "applyUrl": "https://go.landed.jobs/e2c8t9m",
-    "location": "Dallas, TX",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-11T03:43:04.179Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$12.7B valuation",
-      "Series G"
-    ]
-  },
-  {
     "dedupeKey": "job:a917678b-1017-4b53-85f6-1c2b3f3dd144",
     "companyId": "company_a9c4f2d6d4a6ffa882a5b9d2aee6c87a",
     "company": "Nuro",
@@ -5770,360 +6021,213 @@
     ]
   },
   {
-    "dedupeKey": "job:51edac9a-79a9-4881-bac9-56852541fad0",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Principal Software Engineer (PAN OS)",
-    "applyUrl": "https://go.landed.jobs/jb96kc0",
-    "location": "California, CA",
+    "dedupeKey": "job:3ac2171b-8ac5-4261-abc5-7e1921a4b0fb",
+    "companyId": "company_2a812cf9ea20002b33d1d7ec3bb5b9e4",
+    "company": "Forterra",
+    "companyDomain": "forterra.com",
+    "role": "2027 Intern - Software",
+    "applyUrl": "https://go.landed.jobs/qtshhoj",
+    "location": "Clarksburg, MD +4",
     "locations": [
-      "California, CA"
+      "Clarksburg, MD",
+      "Arlington, VA",
+      "Durham, NC",
+      "Winter Park, FL",
+      "East Palo Alto, CA"
     ],
     "remote": "",
     "region": "us",
     "family": "software_engineering",
-    "level": "principal",
+    "level": "intern",
     "skills": [
-      "Python"
+      "C++"
     ],
-    "posted": "2026-11-11T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T23:22:23.388Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
+      "$2B valuation",
+      "Series B"
     ]
   },
   {
-    "dedupeKey": "job:64e1e0f8-1235-4016-868d-ca47bf012186",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Principal Software Engineer (Wildfire)",
-    "applyUrl": "https://go.landed.jobs/v113qzx",
-    "location": "California, CA",
+    "dedupeKey": "job:bc8cc822-5d29-41d9-84a3-78ed486a9d55",
+    "companyId": "company_d053a52470e71086531f20bbe8d8af5a",
+    "company": "Varda Space Industries",
+    "companyDomain": "varda.com",
+    "role": "Senior Spacecraft Mission Software Engineer",
+    "applyUrl": "https://go.landed.jobs/8jn76pi",
+    "location": "El Segundo, CA",
     "locations": [
-      "California, CA"
+      "El Segundo, CA"
     ],
     "remote": "",
     "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "Python",
-      "Golang",
-      "distributed systems",
-      "SQL",
-      "AWS",
-      "grpc",
-      "Kafka",
-      "Terraform"
-    ],
-    "posted": "2026-11-11T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:889dc754-6610-474c-a000-e99758845fb6",
-    "companyId": "company_bea34bc9d29d0ab7935c486e89f3e7bf",
-    "company": "Zillow",
-    "companyDomain": "zillow.com",
-    "role": "Senior Software Development Engineer, Fullstack",
-    "applyUrl": "https://go.landed.jobs/qdcnz53",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
       "CI/CD",
-      "observability"
-    ],
-    "posted": "2026-11-11T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$7.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:cfde2c26-606b-456f-9c8e-a540115e947b",
-    "companyId": "company_7cce6156243b1cbd4d14bc2f2a0c8d49",
-    "company": "Palo Alto Networks",
-    "companyDomain": "paloaltonetworks.com",
-    "role": "Principal Software Engineer (Prisma Access)",
-    "applyUrl": "https://go.landed.jobs/q16dyn3",
-    "location": "California, CA",
-    "locations": [
-      "California, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
+      "observability",
       "Python",
-      "Java",
-      "Go",
-      "distributed systems",
-      "AWS",
-      "Azure",
-      "CI/CD",
       "Kubernetes",
       "Docker",
-      "Terraform",
-      "Grafana"
+      "C++"
     ],
-    "posted": "2026-11-11T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T21:21:09.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$270B valuation"
+      "$500M valuation",
+      "Series C"
     ]
   },
   {
-    "dedupeKey": "job:de7f0a21-c331-416c-a2fa-779fe94cd030",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Software Engineering AMTS (College Grad)",
-    "applyUrl": "https://go.landed.jobs/nupicja",
-    "location": "San Francisco, CA +6",
+    "dedupeKey": "job:2cbded3b-f8b3-4fbf-aa53-d8c501657b56",
+    "companyId": "company_e220ecbe25007b5a5ef4476b51fc43cd",
+    "company": "Pinterest",
+    "companyDomain": "pinterest.com",
+    "role": "Staff Software Engineer, Product Infrastructure",
+    "applyUrl": "https://go.landed.jobs/blbtxlg",
+    "location": "San Francisco, CA +2",
     "locations": [
       "San Francisco, CA",
       "Palo Alto, CA",
-      "New York City, NY",
-      "Seattle, WA",
-      "Bellevue, WA",
-      "Dallas, TX",
-      "Indianapolis, IN"
+      "Seattle, WA"
     ],
     "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
-    "level": "entry",
+    "level": "staff",
     "skills": [
-      "Salesforce",
-      "Python",
-      "Javascript",
-      "Java",
-      "SQL",
-      "LLM",
-      "AI agents"
+      "observability"
     ],
-    "posted": "2026-11-11T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T20:26:18.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
+      "$13.4B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:d141fdb3-b981-4fa8-8619-caa06a6b88a2",
-    "companyId": "company_377ba8161427409a2ea78ff74c54bcfe",
-    "company": "Eve",
-    "companyDomain": "eve.legal",
-    "role": "Senior CRM Solutions Architect",
-    "applyUrl": "https://go.landed.jobs/ldlh2wz",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:6979af9c-abfc-4fc9-b564-ab872e68f72a",
+    "companyId": "company_e7267cbc878d87f13c5b7b76554e0b0d",
+    "company": "Box",
+    "companyDomain": "box.com",
+    "role": "Senior Software Engineer, Query Platform",
+    "applyUrl": "https://go.landed.jobs/22k788h",
+    "location": "Redwood City, CA",
     "locations": [
-      "San Francisco, CA"
+      "Redwood City, CA"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "go",
-      "Python",
-      "JavaScript",
-      "Salesforce",
-      "HubSpot",
-      "AI agents"
+      "observability",
+      "Elasticsearch",
+      "Spark",
+      "Kubernetes",
+      "Docker",
+      "microservices",
+      "Kafka",
+      "Amazon Web Services",
+      "Google Cloud",
+      "Azure"
     ],
-    "posted": "2026-11-10T23:02:34.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Future of Work 50",
-      "$1B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:2347c4e5-ea35-496b-ae07-e7c6268f80e6",
-    "companyId": "company_bb2482a076be65ee154085b6f75ca1d4",
-    "company": "Factory",
-    "companyDomain": "factory.ai",
-    "role": "Software Engineer, Mobile",
-    "applyUrl": "https://go.landed.jobs/oly9ati",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "AI agents"
-    ],
-    "posted": "2026-11-10T22:21:14.589Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:a682f147-488b-416d-838c-e6dd5a9553a4",
-    "companyId": "company_0ce18f5affe7cd53732efb5ba387578a",
-    "company": "Amplitude",
-    "companyDomain": "amplitude.com",
-    "role": "Senior Salesforce Engineer, Quote-to-Cash",
-    "applyUrl": "https://go.landed.jobs/uc8dn8v",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "AI Agents",
-      "Salesforce",
-      "CI/CD"
-    ],
-    "posted": "2026-11-10T22:06:34.725Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W12",
-      "$1.8B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e7ad8f07-eccf-4aa4-9bf2-823b873055e3",
-    "companyId": "company_59d4a42e554723d2be72e59125b4d728",
-    "company": "Retool",
-    "companyDomain": "retool.com",
-    "role": "Director of Engineering, Core AI Experience",
-    "applyUrl": "https://go.landed.jobs/2d9yb2z",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "director",
-    "skills": [
-      "go"
-    ],
-    "posted": "2026-11-10T22:00:12.199Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W17",
-      "$3.2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:b50669c3-d778-4e34-a137-b21f91564f98",
-    "companyId": "company_8fe9b30d92d73dc8ed58dcd22019720f",
-    "company": "Western Digital",
-    "companyDomain": "westerndigital.com",
-    "role": "Summer 2027 Intern - Software Engineering",
-    "applyUrl": "https://go.landed.jobs/3g3qr58",
-    "location": "San Jose, CA",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "JavaScript",
-      "Java",
-      "Go",
-      "C++",
-      "SQL"
-    ],
-    "posted": "2026-11-10T21:53:00.115Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$188B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:40ce48c3-9a92-43a4-8c5c-0b787a798f8e",
-    "companyId": "company_8fe9b30d92d73dc8ed58dcd22019720f",
-    "company": "Western Digital",
-    "companyDomain": "westerndigital.com",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/v6iieb9",
-    "location": "San Jose, CA",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Python",
-      "JavaScript",
-      "Java",
-      "Go",
-      "C++",
-      "SQL"
-    ],
-    "posted": "2026-11-10T21:51:55.993Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$188B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:a6c06837-2105-4bb2-8b60-be32d52ece62",
-    "companyId": "company_8333eb4073192d57cffad4d658223694",
-    "company": "Skydio",
-    "companyDomain": "skydio.com",
-    "role": "Middleware Software Engineer Intern - Summer 2027",
-    "applyUrl": "https://go.landed.jobs/v6qds3l",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "C++"
-    ],
-    "posted": "2026-11-10T21:44:18.297Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T19:28:34.000Z",
+    "companyTier": "B",
     "companyBadges": [
       "$4.4B valuation",
-      "Series F"
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:eb26bd03-c95b-4cd2-a22d-85439d1d7e07",
-    "companyId": "company_53193994ec9a9c6bb5c9f850d56b4cc5",
-    "company": "Airbnb",
-    "companyDomain": "airbnb.com",
-    "role": "Engineering Manager, Marketing Technology",
-    "applyUrl": "https://go.landed.jobs/65c4sr9",
+    "dedupeKey": "job:09480232-a9af-4177-98ed-139a64d7cf77",
+    "companyId": "company_220909dc28d23739fe4ba8eb6a06df6c",
+    "company": "Life360",
+    "companyDomain": "life360.com",
+    "role": "Senior Firmware Engineer II (AI Native)",
+    "applyUrl": "https://go.landed.jobs/1j46pr5",
+    "location": "🌐 Remote (US, Canada)",
+    "locations": [
+      "US",
+      "Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "C++"
+    ],
+    "posted": "2026-11-16T19:04:57.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$6.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:189a7fdd-cdae-4f41-a5af-8bf0d0370cc2",
+    "companyId": "company_129e6f52f63e8f2e670b3de0bb010318",
+    "company": "Corelight",
+    "companyDomain": "corelight.com",
+    "role": "Sr Software Engineer - Cloud Infrastructure/SRE",
+    "applyUrl": "https://go.landed.jobs/w2ppro5",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "distributed systems",
+      "AWS",
+      "Kubernetes",
+      "Terraform",
+      "observability"
+    ],
+    "posted": "2026-11-16T17:43:19.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$900M valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:1615a5c9-ee41-47a5-a465-b128a491b35e",
+    "companyId": "company_57bd4cc69771c1b10fbb7c03e84df1a8",
+    "company": "Reliable Robotics Corporation",
+    "companyDomain": "reliable.co",
+    "role": "Displays Engineer Intern (Summer 2027)",
+    "applyUrl": "https://go.landed.jobs/mru5a7k",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [
+      "JavaScript",
+      "Figma"
+    ],
+    "posted": "2026-11-16T15:52:55.923Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:20555700-bf35-4ab4-9308-b472d6b1fb49",
+    "companyId": "company_65dc592b9569a8a2463ae6163414b108",
+    "company": "Iovance Biotherapeutics",
+    "companyDomain": "iovance.com",
+    "role": "AI Product Engineer",
+    "applyUrl": "https://go.landed.jobs/6njz2o1",
     "location": "US",
     "locations": [
       "US"
@@ -6133,41 +6237,205 @@
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "LLM",
-      "agentic systems",
-      "marketing automation",
-      "observability"
+      "Python",
+      "React",
+      "LLM"
     ],
-    "posted": "2026-11-10T21:22:38.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T15:49:46.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Marketplace 50",
-      "$89.9B valuation"
+      "$4.2B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:96964696-99cd-4ff4-8649-3361b70428ad",
-    "companyId": "company_b7d743f86b4f985c29fba924f8c32084",
-    "company": "Ramp",
-    "companyDomain": "ramp.com",
-    "role": "Senior Engineer, Backend, Procurement",
-    "applyUrl": "https://go.landed.jobs/997n9lo",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:5a640eed-e1eb-4253-9ca0-f3a28690c695",
+    "companyId": "company_0e02d5a441e536cd79a8e3b8df3ccbc7",
+    "company": "StockX",
+    "companyDomain": "stockx.com",
+    "role": "Software Engineer (Front End)",
+    "applyUrl": "https://go.landed.jobs/y7jc7md",
+    "location": "Detroit, MI",
     "locations": [
-      "New York City, NY"
+      "Detroit, MI"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "TypeScript",
+      "js",
+      "React",
+      "Next.js",
+      "CI/CD",
+      "GraphQL",
+      "Kubernetes",
+      "observability",
+      "Postgres",
+      "Redis",
+      "AWS"
+    ],
+    "posted": "2026-11-16T14:30:11.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3.8B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:39a6f5f1-3206-47d5-94fa-c526213f5f67",
+    "companyId": "company_3abdb316975af810c4776db916c501d0",
+    "company": "Nessie",
+    "companyDomain": "nessielabs.com",
+    "role": "Software Engineering Intern",
+    "applyUrl": "https://go.landed.jobs/kyured9",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-11-16T00:12:41.157Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC F25",
+      "Seed"
+    ]
+  },
+  {
+    "dedupeKey": "job:94d01f41-b2c2-478e-9b2e-5c003d107bd8",
+    "companyId": "company_7e0372b254ef39b2dd87db282918a40a",
+    "company": "Symbotic",
+    "companyDomain": "symbotic.com",
+    "role": "Software Engineer, Core Systems & Platform Services",
+    "applyUrl": "https://go.landed.jobs/paxwy4g",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "C#"
+    ],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$25B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:cbdb46c5-c900-4266-8255-559612d7df8c",
+    "companyId": "company_4bafd6112b6dd866fe7ab931ec80e743",
+    "company": "SS&C",
+    "companyDomain": "ssctech.com",
+    "role": "Director, Software Engineering",
+    "applyUrl": "https://go.landed.jobs/wflgpfj",
+    "location": "New York City, NY · Union, NJ",
+    "locations": [
+      "New York City, NY",
+      "Union, NJ"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "director",
+    "skills": [
+      "Salesforce",
+      "TypeScript"
+    ],
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$18.1B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:dec2ec58-9e96-4890-9f94-82390657e9c7",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Cloud Infrastructure Engineer",
+    "applyUrl": "https://go.landed.jobs/qugtswq",
+    "location": "US · Reston, VA",
+    "locations": [
+      "US",
+      "Reston, VA"
+    ],
+    "remote": "",
+    "region": "us",
     "family": "software_engineering",
     "level": "senior",
     "skills": [
-      "LLMs"
+      "AWS",
+      "IaC",
+      "Python",
+      "Go"
     ],
-    "posted": "2026-11-10T21:13:22.545Z",
-    "companyTier": "A",
+    "posted": "2026-11-16T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$44B valuation"
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:4fe6e906-120f-4ffd-8274-ce9a8bae44a6",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Software Engineer",
+    "applyUrl": "https://go.landed.jobs/j82nv0c",
+    "location": "Milpitas, CA",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Jenkins"
+    ],
+    "posted": "2026-11-15T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:7b67ed09-d1fa-4927-ad55-6742a5417e8c",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Software Engineer",
+    "applyUrl": "https://go.landed.jobs/e79vdjy",
+    "location": "Milpitas, CA",
+    "locations": [
+      "Milpitas, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Jenkins"
+    ],
+    "posted": "2026-11-15T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -7814,28 +8082,36 @@
     ]
   },
   {
-    "dedupeKey": "job:6f57d31a-625d-4e80-b622-43f6f45534fc",
-    "companyId": "company_bb549f613e0588f87949b4578b05f657",
-    "company": "Aurora",
-    "companyDomain": "aurora.tech",
-    "role": "Software Engineer Intern, Vehicle Platforms",
-    "applyUrl": "https://go.landed.jobs/uwiv3ka",
-    "location": "Mountain View, CA",
+    "dedupeKey": "job:cda12bd3-3773-400e-b3e6-40609afa5e95",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "Workday Integration Developer",
+    "applyUrl": "https://go.landed.jobs/mmm0eq7",
+    "location": "Southlake, TX +2",
     "locations": [
-      "Mountain View, CA"
+      "Southlake, TX",
+      "Austin, TX",
+      "Phoenix, AZ"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "software_engineering",
-    "level": "intern",
+    "level": "senior",
     "skills": [
-      "C++",
-      "Python"
+      "Workday Studio",
+      "Workday release management",
+      "tenant management",
+      "test coordination",
+      "production deployments",
+      "Kainos Smart Test",
+      "Kainos Smart",
+      "Jira",
+      "Atlassian tools"
     ],
-    "posted": "2026-11-13T02:49:46.310Z",
+    "posted": "2026-11-13T05:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "$12.9B valuation",
       "Public"
     ]
   },
@@ -7890,6 +8166,34 @@
     "companyTier": "B",
     "companyBadges": [
       "$13.1B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:1a7fac2f-b26a-4722-80a4-6120aff88154",
+    "companyId": "company_1d67bbc9737b3cd194e4b9fa31509887",
+    "company": "Workday",
+    "companyDomain": "workday.com",
+    "role": "Sr. Software Development Engineer - DevX",
+    "applyUrl": "https://go.landed.jobs/5gc5ura",
+    "location": "Boulder, CO",
+    "locations": [
+      "Boulder, CO"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "js",
+      "React",
+      "kubernetes",
+      "REST APIs"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$39.6B valuation",
       "Public"
     ]
   },
@@ -8017,6 +8321,38 @@
     ]
   },
   {
+    "dedupeKey": "job:3c160bdb-8d7d-4e87-864c-a01691580610",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Systems Software Engineer",
+    "applyUrl": "https://go.landed.jobs/h3r9bcg",
+    "location": "North Charleston, SC · Washington, D.C., DC",
+    "locations": [
+      "North Charleston, SC",
+      "Washington, D.C., DC"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "staff",
+    "skills": [
+      "Rust",
+      "Python",
+      "JavaScript",
+      "Java",
+      "C#",
+      "PHP",
+      "React",
+      "TS"
+    ],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:450bb3e6-9715-4e6e-ad94-395d2edd880c",
     "companyId": "company_49ae40f098b6e1be8c89328d2d67f4e7",
     "company": "Kyndryl",
@@ -8039,6 +8375,28 @@
     "companyTier": "B",
     "companyBadges": [
       "$3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:479f4b80-fed2-4a0e-9d50-185f687c02b5",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Systems and Automation Network Engineer",
+    "applyUrl": "https://go.landed.jobs/s84ax66",
+    "location": "San Diego, CA",
+    "locations": [
+      "San Diego, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-13T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
       "Public"
     ]
   },
@@ -8111,357 +8469,6 @@
     "posted": "2026-11-13T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4bc66502-d784-4da0-98e7-38b6426feb55",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Adobe Experience Manager (AEM) Developer",
-    "applyUrl": "https://go.landed.jobs/yvien2m",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Java",
-      "JavaScript",
-      "React",
-      "Angular",
-      "CI/CD",
-      "GraphQL"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4bd46c46-f644-4c6b-addd-bd7b9730e53c",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Software Engineer NextGen AI Search",
-    "applyUrl": "https://go.landed.jobs/9q31rpr",
-    "location": "San Jose, CA",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "LLM",
-      "agentic workflows",
-      "Elasticsearch",
-      "Kubernetes",
-      "CI/CD",
-      "observability"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5a04b067-d00e-4d7c-8f81-750842ed12cf",
-    "companyId": "company_d4ed29c11d3e1867937f29b4a7b35de5",
-    "company": "RELX",
-    "companyDomain": "relx.com",
-    "role": "Consulting/Principal Software Engineer",
-    "applyUrl": "https://go.landed.jobs/77fvd02",
-    "location": "Evanston, IL +2",
-    "locations": [
-      "Evanston, IL",
-      "Boca Raton, FL",
-      "Alpharetta, GA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "principal",
-    "skills": [
-      "go",
-      "TypeScript",
-      "JavaScript",
-      "React",
-      "Next.js",
-      "Java",
-      "microservices",
-      "GraphQL",
-      "Kafka",
-      "SQL",
-      "PostgreSQL",
-      "MySQL"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$61.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5dd4c7e7-f73e-4329-b1a4-f277a5f0e59b",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "Network Engineer 4 ((Cloud Operations Resilience Engineering)",
-    "applyUrl": "https://go.landed.jobs/fhmxsm3",
-    "location": "Plano, TX +2",
-    "locations": [
-      "Plano, TX",
-      "McLean, VA",
-      "Richmond, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Kubernetes"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:61c4b8eb-b84b-429a-9258-419a4695762f",
-    "companyId": "company_49ae40f098b6e1be8c89328d2d67f4e7",
-    "company": "Kyndryl",
-    "companyDomain": "kyndryl.com",
-    "role": "Observability & Scale Engineer",
-    "applyUrl": "https://go.landed.jobs/q5b9a9j",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "Grafana",
-      "Kubernetes",
-      "Python"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:669d9ea1-96c6-4c31-8b81-1f7ab69c3fa2",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Software Engineer Compiler I (Full Time) – United States",
-    "applyUrl": "https://go.landed.jobs/081n5f9",
-    "location": "Austin, TX +4",
-    "locations": [
-      "Austin, TX",
-      "Dallas, TX",
-      "Milpitas, CA",
-      "US",
-      "San Jose, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Python",
-      "CI/CD"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6b9c216a-1d0c-4485-813b-6a43f7766ed8",
-    "companyId": "company_7505a4e1b0157a83a8154a701374352c",
-    "company": "Q2 Holdings",
-    "companyDomain": "q2.com",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/pbeci0k",
-    "location": "Austin, TX",
-    "locations": [
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Javascript",
-      "Vue"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6f123dde-3827-4d36-a293-c27d0b0d3c13",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Software Engineer, Mid",
-    "applyUrl": "https://go.landed.jobs/gdbnbcw",
-    "location": "Lexington Park, MD",
-    "locations": [
-      "Lexington Park, MD"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "JavaScript",
-      "C#",
-      "Java",
-      "React"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:784463b4-f3c5-4aaf-828b-cf34457d2417",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "DevOps Engineer - 6597000",
-    "applyUrl": "https://go.landed.jobs/ptp5m6j",
-    "location": "Scottsdale, AZ",
-    "locations": [
-      "Scottsdale, AZ"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Python",
-      "CI/CD"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:83f1113e-5afb-48d0-b6f9-18a87220e9e3",
-    "companyId": "company_e80c8869b6e03f3d446ce68355dd2e76",
-    "company": "H2O.ai",
-    "companyDomain": "h2o.ai",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/c13nsez",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Austin, TX"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Kubernetes",
-      "Docker",
-      "CI/CD",
-      "Python",
-      "Java",
-      "Go",
-      "TypeScript",
-      "React",
-      "PostgreSQL",
-      "gRPC",
-      "Spark"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.7B valuation",
-      "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:85443e86-c759-4477-821b-c435f9da0a94",
-    "companyId": "company_e80c8869b6e03f3d446ce68355dd2e76",
-    "company": "H2O.ai",
-    "companyDomain": "h2o.ai",
-    "role": "Software Engineer",
-    "applyUrl": "https://go.landed.jobs/shywcwi",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Raleigh, NC"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "mid",
-    "skills": [
-      "Kubernetes",
-      "Docker",
-      "CI/CD",
-      "Python",
-      "Java",
-      "Go",
-      "TypeScript",
-      "React",
-      "PostgreSQL",
-      "gRPC",
-      "Spark"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.7B valuation",
-      "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:85f417ca-3df2-49bf-8cfb-fbb4a081ea73",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Infrastructure Systems Engineer - 6594749",
-    "applyUrl": "https://go.landed.jobs/ub5xj6w",
-    "location": "Charlotte, NC",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
       "Public"
     ]
   }

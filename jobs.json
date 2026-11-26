@@ -5479,60 +5479,6 @@
     ]
   },
   {
-    "dedupeKey": "job:0f117272-9146-414a-94aa-41568a856532",
-    "companyId": "company_4b4893a93cc4415f79f039b1baa2dd3b",
-    "company": "Mach Industries",
-    "companyDomain": "machindustries.com",
-    "role": "Systems Administrator",
-    "applyUrl": "https://go.landed.jobs/5gbgcyu",
-    "location": "Huntington Beach, CA",
-    "locations": [
-      "Huntington Beach, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [],
-    "posted": "2026-11-20T00:51:10.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$3.7B valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:71cf93d8-90cf-4882-9c09-5df5c0684a2a",
-    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
-    "company": "Stripe",
-    "companyDomain": "stripe.com",
-    "role": "Staff Software Engineer, Mobile Development Productivity",
-    "applyUrl": "https://go.landed.jobs/pybohzn",
-    "location": "Namibia · US",
-    "locations": [
-      "Namibia",
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "staff",
-    "skills": [
-      "AI agents",
-      "React",
-      "React Native",
-      "continuous integration",
-      "Kotlin",
-      "Swift"
-    ],
-    "posted": "2026-11-20T00:45:58.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S09",
-      "$159B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:0396239c-8b57-4ccd-8567-4753214711b8",
     "companyId": "company_4ccf2fd66701575f6f9741a05f00fc5a",
     "company": "John Deere",
@@ -6540,6 +6486,37 @@
     ]
   },
   {
+    "dedupeKey": "job:20b6119b-661f-47a1-85e0-f4e751c76ce5",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Software Engineer",
+    "applyUrl": "https://go.landed.jobs/8mwrgh8",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "Java",
+      "Kotlin",
+      "Go",
+      "C#",
+      "AWS",
+      "TypeScript",
+      "React"
+    ],
+    "posted": "2026-11-25T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:34c7d02f-4809-49cb-92b0-6780a6f9db7d",
     "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
     "company": "Cisco",
@@ -6559,6 +6536,35 @@
     "posted": "2026-11-25T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:4fbdd9a2-86db-448d-810c-819775edd979",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Software Engineer, Fullstack",
+    "applyUrl": "https://go.landed.jobs/d7l99bx",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "React",
+      "observability",
+      "TypeScript",
+      "Go",
+      "AWS"
+    ],
+    "posted": "2026-11-25T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
       "Public"
     ]
   },
@@ -6598,6 +6604,33 @@
     ]
   },
   {
+    "dedupeKey": "job:8562ba87-adbf-4d7a-af43-edeee8132e5f",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Software Engineer, New Markets",
+    "applyUrl": "https://go.landed.jobs/74c81qf",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "React",
+      "React Native",
+      "LLM"
+    ],
+    "posted": "2026-11-25T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:a4b4ec3e-5337-45bc-8b1f-17925fbf4945",
     "companyId": "company_4353e4e611be5be0f7e354d9b1248871",
     "company": "CarGurus",
@@ -6630,6 +6663,32 @@
     "companyTier": "B",
     "companyBadges": [
       "$3.3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:eb7c9e45-dc01-4f96-8f77-ea0467c9d4d8",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Fullstack Software Development Engineer, Regional Experience",
+    "applyUrl": "https://go.landed.jobs/vd1afmb",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "React",
+      "React Native"
+    ],
+    "posted": "2026-11-25T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
       "Public"
     ]
   },
@@ -7660,6 +7719,32 @@
     ]
   },
   {
+    "dedupeKey": "job:2bfc9c4e-d1df-4ee5-988e-471cc32d4831",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Software Engineer, Full Stack",
+    "applyUrl": "https://go.landed.jobs/5277w5u",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "senior",
+    "skills": [
+      "observability",
+      "AWS"
+    ],
+    "posted": "2026-11-24T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:386ff803-224f-45e6-8bd1-26e3c5fe03a2",
     "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
     "company": "Cisco",
@@ -8247,107 +8332,6 @@
     "companyBadges": [
       "$4.5B valuation",
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6349e9b3-d4d3-4c8e-939f-9d22134a3408",
-    "companyId": "company_a9fad27cf993e661e1090417e91f385b",
-    "company": "Sardine",
-    "companyDomain": "sardine.ai",
-    "role": "Web SDK Engineer",
-    "applyUrl": "https://go.landed.jobs/r74786v",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "AI agents",
-      "AWS",
-      "TypeScript",
-      "JavaScript",
-      "React",
-      "Next.js",
-      "Vue",
-      "Angular",
-      "Go",
-      "Java",
-      "Kotlin",
-      "Swift"
-    ],
-    "posted": "2026-11-23T16:52:10.264Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$660M valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:a51917ee-98bf-40f8-855a-4c58cd86debe",
-    "companyId": "company_a9fad27cf993e661e1090417e91f385b",
-    "company": "Sardine",
-    "companyDomain": "sardine.ai",
-    "role": "Mobile SDK Engineer",
-    "applyUrl": "https://go.landed.jobs/6n4arlv",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "Java",
-      "Kotlin",
-      "Swift",
-      "API design",
-      "C++",
-      "React",
-      "React Native",
-      "Flutter",
-      "Go",
-      "Rust",
-      "CI/CD"
-    ],
-    "posted": "2026-11-23T16:51:13.847Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$660M valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:864eb5b9-10d0-48f3-bcf7-80570fc953f4",
-    "companyId": "company_a53538a796f4524ae545a943fc0d52c8",
-    "company": "League",
-    "companyDomain": "league.com",
-    "role": "Senior Software Engineer, Full stack",
-    "applyUrl": "https://go.landed.jobs/ocjivaa",
-    "location": "Toronto, Canada · Canada",
-    "locations": [
-      "Toronto, Canada",
-      "Canada"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "senior",
-    "skills": [
-      "TypeScript",
-      "js",
-      "Go",
-      "React",
-      "MongoDB"
-    ],
-    "posted": "2026-11-23T16:04:18.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "Series C"
     ]
   }
 ]
